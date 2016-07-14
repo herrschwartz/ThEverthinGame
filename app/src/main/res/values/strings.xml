@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">The Everything Game</string>
+
+    <!--Strings for the game screen-->
+    <string name="welcome">Round 1 - Verbal Descriptions</string>
+    <string name="Round2Explantion">Round 2 - Acting</string>
+    <string name="Round3Explanation">Round 3 - Single Word</string>
+    <string name="timer_btn">Start Timer</string>
+    <string name="team1">Team GoFuckYourself</string>
+    <string name="team2">Team 2</string>
+    <string name="rnd1">One</string>
+    <string name="rnsd2">Two</string>
+    <string name="rnd3">Three</string>
+    <string name="tot">Total</string>
+    <string name="addPnt">Add Point</string>
+    <string name="rmvPnt">Remove Point</string>
+    <string name="resTime">Resume Time</string>
+    <string name="penBtn">Penalty</string>
+
+    <!--Strings for the start screen-->
+    <string name="firstTeamName">First Team Name:</string>
+    <string name="secondTeamName">Second Team Name:</string>
+    <string name="startGameBtn">Start Game</string>
+    <string name="numOfCards">Enter the (total) number of cards being put in the hat</string>
+</resources>
